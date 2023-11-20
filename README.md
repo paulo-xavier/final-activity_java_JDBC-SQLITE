@@ -1,7 +1,7 @@
 # Final activity - Java using SQLite ☕
 
 ## Table of contents
-- [About the project](#ℹ%EF%B8%8F-about-the-project)
+- [About the project](#--ℹ%EF%B8%8F-about-the-project)
   - [Technologies]()
  
 
@@ -19,6 +19,6 @@ Based on that, users can register themselves, send messages, check received mess
 
 <br>
 
-### Technologies 🧑‍💻
+<h3 align="center"> Technologies 🧑‍💻 </h3>
 - Java JDBC Api
 - SQLITE
