@@ -12,7 +12,8 @@ public class Menu {
         System.out.println("1 - Register user");
         System.out.println("2 - Send message");
         System.out.println("3 - Read message");
-        System.out.println("4 - Leave");
+        System.out.println("4 - Check users"); 
+        System.out.println("5 - Leave");
 
         int op = rl.nextInt(); 
 
@@ -69,6 +70,15 @@ public class Menu {
                 break; 
 
             case 4:
+                System.out.print("\033[H\033[2J");  
+                System.out.flush();
+
+                new User("").checkUsers();
+                
+                run(); 
+                break;
+
+            case 5:
                 System.out.print("\033[H\033[2J");  
                 System.out.flush();
             
