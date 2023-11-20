@@ -44,7 +44,7 @@ Based on that, users can register themselves, send messages, check received mess
 
 <br> 
 
-- After that, if you want to create an empty database, just with the rows and columns, you can run this command:
+- After that, if you want to create an empty database, just with the rows and columns, you can remove the original `messages.db` and run this command:
  
 <p align="center"> <code>  java -classpath ".;sqlite-jdbc-3.43.0.0.jar" Db </code> </p>
 
