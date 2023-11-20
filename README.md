@@ -3,6 +3,7 @@
 ## Table of contents
 - [About the project](#--ℹ%EF%B8%8F-about-the-project)
   - [Technologies](#-technologies--)
+  - [Tutorial] ()
  
 
 <br>
@@ -23,10 +24,40 @@ Based on that, users can register themselves, send messages, check received mess
 
 <h3> Technologies 🧑‍💻 </h3>
 
-- Java JDBC Api
+- Java JDBC API
 - SQLITE
 
 
 ---
+
+<h3 align="center"> Tutorial 🖋️ </h3>
+
+<br>
+
+- To run this code, you must have the driver `sqlite-jdbc-3.43.0.0.jar` obligatory in the same folder as the source code.
+
+<br>
+
+- The first thing you have to do is to compile all the files before runing the program:
+
+<p align="center"> <code> javac *.java </code></p>
+
+<br> 
+
+- After that, if you want to create an empty database, just with the rows and columns, you can run this command:
+ 
+<p align="center"> <code>  java -classpath ".;sqlite-jdbc-3.43.0.0.jar" Db </code> </p>
+
+<br>
+
+- Or if you prefer, you can keep the same database. However, it contains some users and messages registered.
+
+<br>
+
+- Finally, just execute the class Menu:
+
+  <p align="center"> <code> java -classpath ".;sqlite-jdbc-3.43.0.0.jar" Menu </code></p>
+   
+
 
 
