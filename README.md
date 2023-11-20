@@ -3,7 +3,8 @@
 ## Table of contents
 - [About the project](#--ℹ%EF%B8%8F-about-the-project)
   - [Technologies](#-technologies--)
-  - [Tutorial] ()
+  - [Tutorial](#-tutorial-%EF%B8%8F-)
+- [Author]()
  
 
 <br>
@@ -57,7 +58,16 @@ Based on that, users can register themselves, send messages, check received mess
 - Finally, just execute the class Menu:
 
   <p align="center"> <code> java -classpath ".;sqlite-jdbc-3.43.0.0.jar" Menu </code></p>
-   
 
+<br>
+
+---
+
+<h2> Author 💻 </h2>
+
+- Frontend Mentor - [@paulo-xavier](https://www.frontendmentor.io/profile/paulo-xavier)
+- Instagram - [@oxavierpaulo](https://www.instagram.com/oxavierpaulo/)
+- GitHub - [@paulo-xavier](https://github.com/paulo-xavier)
+- Linkedin - [@Paulo Roberto Xavier da Silva](https://www.linkedin.com/in/paulo-xavier-15bb6924a/)
 
 
