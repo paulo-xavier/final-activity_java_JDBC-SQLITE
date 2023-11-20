@@ -1,7 +1,7 @@
 # Final activity - Java using SQLite ☕
 
 ## Table of contents
-- [About the project](#%EF%B8%8F-about-the-project)
+- [About the project](#ℹ%EF%B8%8F-about-the-project)
   - []()
  
 
