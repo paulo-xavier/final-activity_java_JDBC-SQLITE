@@ -20,7 +20,13 @@ Based on that, users can register themselves, send messages, check received mess
 <br>
 
 
-<h3 align="center"> Technologies 🧑‍💻 </h3>
+
+<h3> Technologies 🧑‍💻 </h3>
 
 - Java JDBC Api
 - SQLITE
+
+
+---
+
+
