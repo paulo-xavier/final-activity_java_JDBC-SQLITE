@@ -1,13 +1,17 @@
 # Final activity - Java using SQLite ☕
 
 ## Table of contents
-- [About the project]()
+- [About the project](#%EF%B8%8F-about-the-project)
   - []()
  
 
 
-## About the project 
+## ℹ️ About the project 
 
+This project consists in small **message board**. Users can register their nicknames and send messages to other users. All of this information is stored in a database called `messages.db`. 
 
-This project consists in a small chat where users can create a nickname and send messages to other users. Each time an user is registered, his nickname goes to a database, so it is not possible to have duplicated users. After that, the user can check other users registered and then, send a message to them. 
+This database contains two tables: `user` and `message`. The table `user` has a column called `nickname`, in this column all the nicknames from users are stored.
 
+The table `message` has three columns: `idSender`, `idRecipient` and `message`. Considering the IDs, it is possible to verify who sent the message and for which person, and the content of the message. 
+
+Based on that, users can register themselves, send messages, check received messages and verify other registered users. 
