@@ -4,7 +4,7 @@
 - [About the project](#--ℹ%EF%B8%8F-about-the-project)
   - [Technologies](#-technologies--)
   - [Tutorial](#-tutorial-%EF%B8%8F-)
-- [Author]()
+- [Author](#-author--)
  
 
 <br>
