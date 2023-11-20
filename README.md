@@ -2,7 +2,7 @@
 
 ## Table of contents
 - [About the project](#--ℹ%EF%B8%8F-about-the-project)
-  - [Technologies]()
+  - [Technologies](#-technologies--)
  
 
 <br>
@@ -19,6 +19,8 @@ Based on that, users can register themselves, send messages, check received mess
 
 <br>
 
+
 <h3 align="center"> Technologies 🧑‍💻 </h3>
+
 - Java JDBC Api
 - SQLITE
